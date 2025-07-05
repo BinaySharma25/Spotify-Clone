@@ -5,6 +5,8 @@ The design closely replicates the look and feel of Spotify's web player, includi
 
 This project helped me strengthen my CSS layout skills using Flexbox and Grid, while focusing on responsive design and visual accuracy without JavaScript or any frameworks.
 
+🔗 Live Website:https://spotifyclone-binay.netlify.app/
+
 Screenshot1
 ![image alt](https://github.com/BinaySharma25/Spotify-Clone/blob/main/Screenshots/Spotify-clone-ss1.png?raw=true)
 
